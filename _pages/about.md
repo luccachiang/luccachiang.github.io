@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: 
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -11,4 +11,4 @@ redirect_from:
 
 Hi there! I am an undergraduate student at [Sichuan University](https://www.scu.edu.cn/), advised by [Prof. Yan Wang](https://sw.scu.edu.cn/info/1195/13570.htm). I am also a research intern at [Shanghai Qi Zhi Institute](https://sqz.ac.cn/), advised by [Prof. Huazhe Xu](http://hxu.rocks/index.html).
 
-My research interests lies in the intersection of Computer Vision, Reinforcement Learning and Robotics. Specifically, I am a fan of Video Understanding and Robotic Manipulation.
+My research interests lie in the intersection of Computer Vision, Reinforcement Learning and Robotics. Specifically, I am a fan of Video Understanding and Robotic Manipulation.
