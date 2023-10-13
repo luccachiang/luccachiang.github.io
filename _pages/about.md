@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: 
+title: "Guangqi Jiang"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
